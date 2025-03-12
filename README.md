@@ -5,4 +5,4 @@ This project follows a structured corporate data analytics workflow, covering ev
 
 Check out the dashboard - [Link](https://public.tableau.com/views/HealthcareDataViz_17417645597010/CostDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard 1]()
+![Dashboard 1](https://github.com/PrayujaTeli/Corporate_Data_Workflow/blob/main/Dashboard.png)
