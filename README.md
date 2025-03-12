@@ -1,4 +1,4 @@
-# Corporate_HealthCare_Data_Workflow
+# Corporate HealthCare Data Workflow
 
 This project follows a structured corporate data analytics workflow, covering every step from business requirement gathering to final deliverables. It focuses on deriving actionable insights from patient data while maintaining industry data processing, analysis, and reporting standards.
 
